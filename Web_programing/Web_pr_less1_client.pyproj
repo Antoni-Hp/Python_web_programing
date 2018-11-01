@@ -5,8 +5,7 @@
     <ProjectGuid>1227a3a7-18b0-45f3-a6e4-c64d4b9df1df</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>Lesson1_client.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
